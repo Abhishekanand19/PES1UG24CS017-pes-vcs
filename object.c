@@ -1,4 +1,3 @@
-
 // object.c — Content-addressable object store
 //
 // Every piece of data (file contents, directory listings, commits) is stored
@@ -260,4 +259,3 @@ uint8_t *null_ptr = memchr(buf, '\0', bytes_read);
  
     return 0;
 }
-
