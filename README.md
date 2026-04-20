@@ -24,7 +24,9 @@ Implemented content-addressable storage using SHA-256 hashing. Objects are store
 
 
 **Screenshot 1B: Sharded Object Store Structure**
-![Phase 1B - Object Directory](Screenshots/1B.png)
+<img width="815" height="197" alt="Screenshot 1B" src="https://github.com/user-attachments/assets/d82141be-735f-44a4-92c2-f1c817ed5c1c" />
+
+
 
 ---
 
@@ -41,10 +43,13 @@ Implemented tree serialization to represent directory structures. Trees contain 
 ### Screenshots
 
 **Screenshot 2A: Tree Tests Passing**
-![Phase 2A - Test Output](Screenshots/2A.png)
+<img width="810" height="496" alt="Screenshot 2A" src="https://github.com/user-attachments/assets/f0907885-c490-4f26-b9c4-467017adbc8c" />
+
+
 
 **Screenshot 2B: Raw Tree Object Binary Format**
-![Phase 2B - Binary Dump](Screenshots/2B.png)
+<img width="805" height="81" alt="Screenshot 2B" src="https://github.com/user-attachments/assets/b9549180-77c0-4cba-b4c4-0dae839b2290" />
+
 
 ---
 
@@ -62,10 +67,13 @@ Implemented the staging area as a text-based file format. The index tracks which
 ### Screenshots
 
 **Screenshot 3A: PES Status Output**
-![Phase 3A - Status Output](Screenshots/3A.png)
+<img width="812" height="494" alt="Screenshot 3A" src="https://github.com/user-attachments/assets/b6327653-22ec-4a05-a943-1c6153ecf6c5" />
+
+
 
 **Screenshot 3B: Index File Contents**
-![Phase 3B - Index Contents](Screenshots/3B.png)
+<img width="813" height="149" alt="Screenshot 3B" src="https://github.com/user-attachments/assets/4b8892a2-88e2-4460-a61f-fe994d978ca9" />
+
 
 ---
 
@@ -82,16 +90,22 @@ Implemented commit creation and history traversal. Commits tie together trees wi
 ### Screenshots
 
 **Screenshot 4A: Commit Log with Three Commits**
-![Phase 4A - Log Output](Screenshots/4A.png)
+<img width="814" height="399" alt="Screenshot 4A" src="https://github.com/user-attachments/assets/815ba65b-4509-492b-8ff3-69df381ab219" />
+
 
 **Screenshot 4B: Object Store Growth After Commits**
-![Phase 4B - Object Files](Screenshots/4B.png)
+<img width="811" height="359" alt="Screenshot 4B" src="https://github.com/user-attachments/assets/fa37cd8c-0cca-453a-b766-b3729b60a557" />
+
+
 
 **Screenshot 4C: Reference Chain (HEAD and main)**
-![Phase 4C - Refs](Screenshots/4C.png)
+<img width="816" height="143" alt="Screenshot 4C" src="https://github.com/user-attachments/assets/83b8b5ed-0a84-44a8-a5e1-83f10f5c8b66" />
+
+
 
 **Final Screenshot: Test Integrations**  
-![Final Screenshot](Screenshots/final.png)
+<img width="723" height="902" alt="final image" src="https://github.com/user-attachments/assets/70bcb222-d3eb-4f07-8c63-9fdc122eeefb" />
+
 
 ---
 
